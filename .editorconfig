@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0168: 変数は宣言されていますが、使用されていません
+dotnet_diagnostic.CS0168.severity = none
+
+# IDE0051: 使用されていないプライベート メンバーを削除する
+dotnet_diagnostic.IDE0051.severity = none
